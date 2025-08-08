@@ -21,7 +21,8 @@ Previously, I received my PhD in Biomedical Engineering at Georgia Tech advised 
   * Awarded AHA Postdoctoral Fellowship For "Diffuse Optics for Noninvasive Estimation of Cerebral Venous Oxygenation in Children with Congenital Heart Disease", 2025 - 2026
   * Serve as area chair at SPIE Photonics West, 2025
   * Serve as Poster Judge at Britan Chance Symposium, 2024
-  * Awarded AHA Predoctoral Fellowship For "Improving", 2023 - 2024
+  * Awarded AHA Predoctoral Fellowship for "Improving", 2023 - 2024
+  * Best paper finalist, "", 202
 ---
 
 ### Contact
