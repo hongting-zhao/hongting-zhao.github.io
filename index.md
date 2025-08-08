@@ -19,31 +19,16 @@ Previously, I received my PhD in Biomedical Engineering at Georgia Tech advised 
 ### News
 
   * Awarded AHA Postdoctoral Fellowship For "Diffuse Optics for Noninvasive Estimation of Cerebral Venous Oxygenation in Children with Congenital Heart Disease", 2025 - 2026
-  * Serve as Poster Judge at Britan Chance , 2025
-  * Best Paper Award, [Independence in the Home: A Wearable Interface for a Person with Quadriplegia to Teleoperate a Mobile Manipulator](https://sites.google.com/view/hat2-teleop/), at ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2024
-  * Organizing RSS 2024 workshop on [Learning for Assistive Robotics](https://sites.google.com/view/rss2024-assistive-robotics/home-page)
-  * Organizing ICRA 2024 workshop on Exploring Role Allocation in Human-Robot Co-Manipulation
-  * Virtual Experience Chair for Conference on Robot Learning (CoRL) 2023
-  * Area Chair for CoRL 2023
-  * Organizing RO-MAN 2023 special session on Human-Agent/Robot Interaction in Healthcare and Medicine
-  * Organizing ICRA 2023 workshop on [Emerging paradigms for assistive robotic manipulation: from research labs to the real world](http://sirslab.diism.unisi.it/WorkshopManipulation/index.html)
-  * Chair at IROS 2022 session on Art and Entertainment and Manipulation
-  * Co-chair at ICRA 2022 session on Physical HRI
-  * Area Chair for CoRL 2022
-  * Associate Editor for RO-MAN 2022 
-  * Organizing IROS 2022 workshop [Proximity Perception - Towards Next-Generation Multi-Modal Sensing in Soft Structures](https://proxelsandtaxels.org/en/)
-  * Invited talk at RSS 2022 workshop on [Close Proximity Human-Robot Collaboration](https://sites.google.com/colorado.edu/rss-22-close-proximity-hrc/)
-  * Invited talk at IROS 2021 workshop on [Proximity Perception in Robotics](https://www.proxelsandtaxels.org/en/)
-  * Organizing an ICRA 2021 workshop [Learning for Caregiving Robots](https://sites.gatech.edu/learning-caregiving-icra2021/)
-  * Invited talk at ICRA 2021 workshop on [Representing and Manipulating Deformable Objects](https://deformable-workshop.github.io/icra2021/)
-
+  * Serve as area chair at SPIE Photonics West, 2025
+  * Serve as Poster Judge at Britan Chance Symposium, 2024
+  * Awarded AHA Predoctoral Fellowship For "Improving", 2023 - 2024
 ---
 
 ### Contact
 
-**Email**: [zackory@cmu.edu](mailto:zackory@cmu.edu)
+**Email**: [zhaoh2@chop.edu](mailto:zhaoh2@chop.edu)
 
-**Office**: [Newell-Simon Hall](https://map.concept3d.com/?id=192#!m/15786) 4627
+#**Office**: [Newell-Simon Hall](https://map.concept3d.com/?id=192#!m/15786) 4627
 
 **Address**  
 Carnegie Mellon University  
