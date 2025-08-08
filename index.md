@@ -8,7 +8,7 @@
 layout: page
 ---
 
-#![Zackory Erickskon](assets/images/Zackory_pr2.jpg)
+##![Zackory Erickskon](assets/images/Zackory_pr2.jpg)
 
 I am a Postdoctoral Research Fellow in the Department of Neurology at Children's Hospital of Philadelphia, advised by Dr. Arjun Yodh, Dr. Wesley Baker, and Dr. Jennifer Lynch. My research focuses on translating diffuse optical spectroscopies for monitoring brain health. 
 
@@ -19,10 +19,10 @@ Previously, I received my PhD in Biomedical Engineering at Georgia Tech advised 
 ### News
 
   * Awarded AHA Postdoctoral Fellowship For "Diffuse Optics for Noninvasive Estimation of Cerebral Venous Oxygenation in Children with Congenital Heart Disease", 2025 - 2026
-  * Serve as area chair at SPIE Photonics West, 2025
-  * Serve as Poster Judge at Britan Chance Symposium, 2024
-  * Awarded AHA Predoctoral Fellowship for "Improving", 2023 - 2024
-  * Best paper finalist, "", 202
+  * Serve as session chair at SPIE Photonics West, 2025
+  * Serve as Poster Judge at Britton Chance International Symposium on Metabolic Imaging and Spectroscopy, 2024
+  * Awarded AHA Predoctoral Fellowship for "Improving Hemodynamic Biomarkers of Delayed Cerebral Ischemia and Subarachnoid Hemorrhage", 2023 - 2024
+  * Student Paper Finalist, "Optimize Diffuse Correlation Spectroscopy measurements of cerebral blood flow with a multi-layer analytical model", 2022
 ---
 
 ### Contact
@@ -37,9 +37,13 @@ Robotics Institute
 5000 Forbes Ave  
 Pittsburgh, PA 15213 USA
 
+--- 
+### Teaching 
+* Biomedical Systems and Modeling, Teaching Assistant, Georgia Tech, Fall 2020 - Spring 2021
+* Optics, Teaching Assistant, University of Science and Technology of China, Spring 2017 
 
 ---
-
+### Publication 
 
 <h4><a href="https://scholar.google.com/citations?user=wElkTtIAAAAJ&hl=en">Google Scholar</a></h4>
 
