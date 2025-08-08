@@ -36,27 +36,8 @@ Robotics Institute
 5000 Forbes Ave  
 Pittsburgh, PA 15213 USA
 
----
-
-### Teaching
-
-Spring 2025: [16-467: Human-Robot Interaction](https://zackory.com/16467-25/)  
-Fall 2024: [16-741: Mechanics of Manipulation](https://zackory.com/16741-24/)  
-Spring 2024: [16-762: Mobile Manipulation](https://zackory.com/mm2024/)  
-Fall 2023: [16-741: Mechanics of Manipulation](https://zackory.com/16741-23/)  
-Spring 2023: [16-887: Robotic Caregivers and Intelligent Physical Collaboration](https://zackory.com/rc2023/)  
-Fall 2022: [16-741: Mechanics of Manipulation](https://zackory.com/16741-22/)  
-Spring 2022: [16-887: Robotic Caregivers and Intelligent Physical Collaboration](https://zackory.com/rc2022/)  
-Spring 2021: [BMED 4833/8813 - Robotic Caregivers](https://sites.gatech.edu/robotic-caregivers/2021-spring/)  
-Spring 2020: [BMED 4803/8813 - Robotic Caregivers](https://sites.gatech.edu/robotic-caregivers/2020-spring/)  
 
 ---
-
-### Extra links
-You can find a recording of my Robotics PhD Defense at Georgia Tech here: [https://youtu.be/3DYv8SlaP2w](https://youtu.be/3DYv8SlaP2w)
-
-In 2016, I participated in the 4th Heidelberg Laureate Forum. Here are [some photos from the 4th HLF](https://zackory.com/hlf4/).
-
 
 
 <h4><a href="https://scholar.google.com/citations?user=wElkTtIAAAAJ&hl=en">Google Scholar</a></h4>
