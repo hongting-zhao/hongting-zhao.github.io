@@ -8,23 +8,18 @@
 layout: page
 ---
 
-![Zackory Erickskon](assets/images/Zackory_pr2.jpg)
+#![Zackory Erickskon](assets/images/Zackory_pr2.jpg)
 
-**I am looking for 1 PhD student to join our research group in Fall 2025**. If you are a recently admitted CMU PhD student, please email me! zackory@cmu.edu
+I am a Postdoctoral Research Fellow in the Department of Neurology at Children's Hospital of Philadelphia, advised by Dr. Arjun Yodh, Dr. Wesley Baker, and Dr. Jennifer Lynch. My research focuses on translating diffuse optical spectroscopies for monitoring brain health. 
 
-**We also have several open positions for MSR and Master's students starting Fall 2025**.
-
-I am a tenure-track Assistant Professor in [The Robotics Institute](https://www.ri.cmu.edu) at [Carnegie Mellon University](https://www.cmu.edu), where I lead the [Robotic Caregiving and Human Interaction (RCHI) Lab](https://rchi-lab.github.io).
-My research focuses on developing new robot learning, mobile manipulation, and sensing methods, with applications in physical human-robot interaction and healthcare.
-
-Previously, I received my PhD in Robotics at Georgia Tech advised by [Charlie Kemp](https://charliekemp.com).
+Previously, I received my PhD in Biomedical Engineering at Georgia Tech advised by Dr. Erin M. Buckley 
 
 ---
 
 ### News
 
-  * Organizing IROS 2025 workshop on [RObotic MAnipulation of Deformable Objects (ROMADO 2025)](https://romado-workshop.github.io/ROMADO2025.github.io/)
-  * Best Paper Nomination, [LAMS: LLM-Driven Automatic Mode Switching for Assistive Teleoperation](https://lams-assistance.github.io), at ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2025
+  * Awarded AHA Postdoctoral Fellowship For "Diffuse Optics for Noninvasive Estimation of Cerebral Venous Oxygenation in Children with Congenital Heart Disease", 2025 - 2026
+  * Serve as Poster Judge at Britan Chance , 2025
   * Best Paper Award, [Independence in the Home: A Wearable Interface for a Person with Quadriplegia to Teleoperate a Mobile Manipulator](https://sites.google.com/view/hat2-teleop/), at ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2024
   * Organizing RSS 2024 workshop on [Learning for Assistive Robotics](https://sites.google.com/view/rss2024-assistive-robotics/home-page)
   * Organizing ICRA 2024 workshop on Exploring Role Allocation in Human-Robot Co-Manipulation
