@@ -81,5 +81,6 @@ function showhide(d) {
         </td>
     </tr>
 {% endfor %}
+  
 </table>
 
